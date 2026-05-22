@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Arnaud Adam 👋
 
-<!--
-**adam-arnaud/Adam-Arnaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web Developer in Career Transition
 
-Here are some ideas to get you started:
+I'm currently transitioning into web development and building my skills through real-world projects, self-learning, and daily practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently working on
+- Personal portfolio website
+- Trésors des Fagnes (cattery showcase website)
+- OpenClassrooms learning projects
+- Growing my GitHub portfolio
+
+### 🛠 Tech stack
+HTML • CSS • JavaScript  
+Git • GitHub  
+Visual Studio Code  
+Responsive Web Design
+
+### 🌍 Connect with me
+[LinkedIn](https://www.linkedin.com/in/arnaud-adam-web)
+
+---
+Building one project at a time 💻
